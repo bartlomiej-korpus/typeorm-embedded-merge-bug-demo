@@ -1,0 +1,20 @@
+{
+  "name": "typeorm-relations-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/chai": "^4.1.2",
+    "@types/node": "^9.4.6",
+    "chai": "^4.1.2",
+    "pg": "^7.4.1",
+    "reflect-metadata": "^0.1.12",
+    "sqlite3": "^3.1.13",
+    "typeorm": "^0.1.12"
+  }
+}
